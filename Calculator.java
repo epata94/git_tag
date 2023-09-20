@@ -3,5 +3,7 @@ public class calculator{
     	return num1+num2;
     }
 
+	// 향후 뺄셈 함수 개발 예정
+
 }
 
